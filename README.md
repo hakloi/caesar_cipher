@@ -5,7 +5,8 @@
 ## Структура проекта
 tree /F
 
-C:.
+![plot](./img/structure.jpg)
+<!-- C:.
 │   .gitignore
 │   README.md
 │   requirements.txt 
@@ -17,7 +18,7 @@ C:.
     │
     └───tests
             test_cipher.py
-            __init__.py
+            __init__.py -->
 
 
 * requirements.txt - требования (необходимые библиотеки)
